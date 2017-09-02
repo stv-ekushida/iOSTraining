@@ -11,8 +11,8 @@
 | 6回目 | 2017年5月27日（土）| 10:00 - 12:00 | [データベースを利用した課題(1)](https://github.com/stv-ekushida/iOSTraining/wiki/%E7%AC%AC%E5%85%AD%E5%9B%9E-%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%80%80%E5%AE%9F%E8%B7%B5%E7%B7%A8) |
 | 7回目 | 2017年6月24日（土）| 10:00 - 12:00 | [データベースを利用した課題(2)](https://github.com/stv-ekushida/iOSTraining/wiki/%E7%AC%AC%E4%B8%83%E5%9B%9E%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%80%80%E5%AE%9F%E8%B7%B5%E7%B7%A8) |
 | 8回目 | 2017年7月22日（土）| 10:00 - 12:00 | [データベースを利用した課題(3)](https://github.com/stv-ekushida/iOSTraining/wiki/%E7%AC%AC%E5%85%AB%E5%9B%9E%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%80%80%E5%AE%9F%E8%B7%B5%E7%B7%A8) |
-| 9回目 | 2017年8月26日（土）| 10:00 - 12:00 | [API+データベースを利用した課題(3)](https://github.com/stv-ekushida/iOSTraining/wiki/%E7%AC%AC%E4%B9%9D%E5%9B%9E%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%80%80%E5%AE%9F%E8%B7%B5%E7%B7%A8) |
-| 10回目 | 2017年9月23日（土）| 10:00 - 12:00 | 未定 |
+| 9回目 | 2017年8月26日（土）| 10:00 - 12:00 | [API+データベースを利用した課題(1)](https://github.com/stv-ekushida/iOSTraining/wiki/%E7%AC%AC%E4%B9%9D%E5%9B%9E%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%80%80%E5%AE%9F%E8%B7%B5%E7%B7%A8) |
+| 10回目 | 2017年9月23日（土）| 10:00 - 12:00 | [API+データベースを利用した課題(2)](https://github.com/stv-ekushida/iOSTraining/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9E%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%80%80%E5%AE%9F%E8%B7%B5%E7%B7%A8) |
 | 11回目 | 2017年10月21日（土）| 10:00 - 12:00 | 未定 |
 | 12回目 | 2017年11月25日（土）| 10:00 - 12:00 | 未定 |
 | 13回目 | 2017年12月16日（土）| 10:00 - 12:00 | 未定 |
